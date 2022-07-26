@@ -13,14 +13,14 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Crypto Currency Dashboard & Financial Visualization',
+        title: 'E-commerce website with Django',
         github: 'https://github.com',
         demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
     },
     {
         id: 2,
         image: IMG2,
-        title: 'Charts templates & infographics in Figma',
+        title: 'Glovo clone app with Flutter and Dart',
         github: 'https://github.com',
         demo: 'https://dribble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
     },
@@ -57,7 +57,9 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-        <h5>My Recent Work</h5>
+        {/* <h5>My Recent Work</h5> */}
+        <br></br>
+        <br />
         <h2>Portfolio</h2>
 
         <div className="container portfolio__container">
