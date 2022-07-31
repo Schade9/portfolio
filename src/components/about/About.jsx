@@ -1,6 +1,7 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+// import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/main3.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -42,7 +43,7 @@ const About = () => {
 
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos voluptatem eius dolorem maires nihil ducimus at rem ullam reprehenderit quidem quia deserunt, molestiae, eligendi amet repellat molestias quos totam</p>
+          <p>I am a skilled multitasker with with superior work ethic and good teamwork, problem solving and organizational skills. Willing to take on any task to help the team. Reliable and dedicated team player with hardworking and resourceful approach.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

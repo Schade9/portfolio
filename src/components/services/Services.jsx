@@ -12,7 +12,7 @@ const Services = () => {
             <div className="container services__container">
                 <article className="service">
                     <div className="service__head">
-                        <h3>Data analysis</h3>
+                        <h3><strong>Data analysis</strong></h3>
                     </div>
 
                     <ul className="service__list">
@@ -35,7 +35,7 @@ const Services = () => {
 
                 <article className="service">
                     <div className="service__head">
-                        <h3>Web Development</h3>
+                        <h3><strong>Web Development</strong></h3>
                     </div>
 
                     <ul className="service__list">
@@ -66,14 +66,14 @@ const Services = () => {
 
                 <article className="service">
                     <div className="service__head">
-                        <h3>App Development</h3>
+                        <h3><strong>App Development</strong></h3>
                     </div>
 
                     <ul className="service__list">
                         <li>Development tech stack</li>
                         <li>
                             <BiCheck className='service__list-icon' />
-                            <p>Flutter.</p>
+                            <p>Flutter</p>
                         </li>
                         <li>
                             <BiCheck className='service__list-icon' />

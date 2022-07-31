@@ -54,14 +54,6 @@ const Experience = () => {
               </div>
             </article>
 
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <div>
-              <h4>Flutter</h4>
-              <small className="text-align">Intermediate</small>
-              </div>
-            </article>
-
           </div>
         </div>
         {/* END OF FRONTEND */}
