@@ -17,23 +17,23 @@ import 'swiper/css/pagination';
 const data = [
     {
         avatar: AVTR1,
-        name: 'Primary Level (2005 - 2011)',
+        name: 'Primary Level |  2005 - 2011',
         review: 'White Angels Primary School. Kampala Uganda. Earned a PLE certificate.'
     },
     {
         avatar: AVTR2,
-        name: "High school O'level (2012 - 2015)",
+        name: "High school O'level | 2012 - 2015",
         review: 'Seeta High School. Seeta Mukono. Earned a UCE certificate.'
     },
     {
         avatar: AVTR3,
-        name: "High School A'level (2016 - 2017)",
+        name: "High School A'level | 2016 - 2017",
         review: 'Seeta High School. Seeta Mukono. I majored in PCM/ICT. Earned a UACE certificate'
     },
     {
         avatar: AVTR4,
-        name: 'College (2018 - 2023)',
-        review: 'Bachelor of Science in Software Engineering'
+        name: "College | 2018 - 2023",
+        review: 'Makerere University. Bachelor of Science in Software Engineering'
     }
 ]
 
